@@ -23,6 +23,7 @@
 				<Item Name="InitMethod Argument--cluster.ctl" Type="VI" URL="../InitMethod Argument--cluster.ctl"/>
 				<Item Name="CloseMethod Argument--cluster.ctl" Type="VI" URL="../CloseMethod Argument--cluster.ctl"/>
 				<Item Name="MethodAutosetup Argument--cluster.ctl" Type="VI" URL="../MethodAutosetup Argument--cluster.ctl"/>
+				<Item Name="Method Configure Channel Argument--cluster.ctl" Type="VI" URL="../Method Configure Channel Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -41,6 +42,7 @@
 			<Item Name="InitMethod.vi" Type="VI" URL="../InitMethod.vi"/>
 			<Item Name="CloseMethod.vi" Type="VI" URL="../CloseMethod.vi"/>
 			<Item Name="MethodAutosetup.vi" Type="VI" URL="../MethodAutosetup.vi"/>
+			<Item Name="Method Configure Channel.vi" Type="VI" URL="../Method Configure Channel.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
