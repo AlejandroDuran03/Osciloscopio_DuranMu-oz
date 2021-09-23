@@ -27,6 +27,7 @@
 				<Item Name="Read Measurement Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement Method Argument--cluster.ctl"/>
 				<Item Name="Read Measurement 2 Channels Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Method Argument--cluster.ctl"/>
 				<Item Name="Read (Waveform) Method Argument--cluster.ctl" Type="VI" URL="../Read (Waveform) Method Argument--cluster.ctl"/>
+				<Item Name="Reset Method Argument--cluster.ctl" Type="VI" URL="../Reset Method Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -49,6 +50,7 @@
 			<Item Name="Read Measurement Method.vi" Type="VI" URL="../Read Measurement Method.vi"/>
 			<Item Name="Read Measurement 2 Channels Method.vi" Type="VI" URL="../Read Measurement 2 Channels Method.vi"/>
 			<Item Name="Read (Waveform) Method.vi" Type="VI" URL="../Read (Waveform) Method.vi"/>
+			<Item Name="Reset Method.vi" Type="VI" URL="../Reset Method.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
