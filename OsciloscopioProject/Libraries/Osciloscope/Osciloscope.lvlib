@@ -25,6 +25,7 @@
 				<Item Name="MethodAutosetup Argument--cluster.ctl" Type="VI" URL="../MethodAutosetup Argument--cluster.ctl"/>
 				<Item Name="Method Configure Channel Argument--cluster.ctl" Type="VI" URL="../Method Configure Channel Argument--cluster.ctl"/>
 				<Item Name="Read Measurement Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement Method Argument--cluster.ctl"/>
+				<Item Name="Read Measurement 2 Channels Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Method Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -45,6 +46,7 @@
 			<Item Name="MethodAutosetup.vi" Type="VI" URL="../MethodAutosetup.vi"/>
 			<Item Name="Method Configure Channel.vi" Type="VI" URL="../Method Configure Channel.vi"/>
 			<Item Name="Read Measurement Method.vi" Type="VI" URL="../Read Measurement Method.vi"/>
+			<Item Name="Read Measurement 2 Channels Method.vi" Type="VI" URL="../Read Measurement 2 Channels Method.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
