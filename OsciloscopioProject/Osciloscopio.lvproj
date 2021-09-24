@@ -14,6 +14,7 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Class" Type="Folder">
 				<Item Name="Osciloscope.lvclass" Type="LVClass" URL="../Classes/Osciloscope/Osciloscope.lvclass"/>
+				<Item Name="TektroniksTDS.lvclass" Type="LVClass" URL="../Classes/TektronicsTDS/TektroniksTDS.lvclass"/>
 			</Item>
 			<Item Name="GetClass.vi" Type="VI" URL="../GetClass.vi"/>
 			<Item Name="SetClassInstance.vi" Type="VI" URL="../SetClassInstance.vi"/>
