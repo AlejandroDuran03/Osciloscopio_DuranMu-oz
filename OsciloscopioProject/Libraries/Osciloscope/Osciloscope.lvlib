@@ -24,10 +24,13 @@
 				<Item Name="CloseMethod Argument--cluster.ctl" Type="VI" URL="../CloseMethod Argument--cluster.ctl"/>
 				<Item Name="MethodAutosetup Argument--cluster.ctl" Type="VI" URL="../MethodAutosetup Argument--cluster.ctl"/>
 				<Item Name="Method Configure Channel Argument--cluster.ctl" Type="VI" URL="../Method Configure Channel Argument--cluster.ctl"/>
-				<Item Name="Read Measurement Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement Method Argument--cluster.ctl"/>
-				<Item Name="Read Measurement 2 Channels Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Method Argument--cluster.ctl"/>
-				<Item Name="Read (Waveform) Method Argument--cluster.ctl" Type="VI" URL="../Read (Waveform) Method Argument--cluster.ctl"/>
 				<Item Name="Reset Method Argument--cluster.ctl" Type="VI" URL="../Reset Method Argument--cluster.ctl"/>
+				<Item Name="Read WAVEFORM Method Argument--cluster.ctl" Type="VI" URL="../Read WAVEFORM Method Argument--cluster.ctl"/>
+				<Item Name="Read WAVEFORM Method (Reply Payload)--cluster.ctl" Type="VI" URL="../Read WAVEFORM Method (Reply Payload)--cluster.ctl"/>
+				<Item Name="Read Measurement Method Argument--cluster.ctl" Type="VI" URL="../Read Measurement Method Argument--cluster.ctl"/>
+				<Item Name="Read Measurement Method (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Measurement Method (Reply Payload)--cluster.ctl"/>
+				<Item Name="Read 2 channels measurement Argument--cluster.ctl" Type="VI" URL="../Read 2 channels measurement Argument--cluster.ctl"/>
+				<Item Name="Read 2 channels measurement (Reply Payload)--cluster.ctl" Type="VI" URL="../Read 2 channels measurement (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -47,10 +50,10 @@
 			<Item Name="CloseMethod.vi" Type="VI" URL="../CloseMethod.vi"/>
 			<Item Name="MethodAutosetup.vi" Type="VI" URL="../MethodAutosetup.vi"/>
 			<Item Name="Method Configure Channel.vi" Type="VI" URL="../Method Configure Channel.vi"/>
-			<Item Name="Read Measurement Method.vi" Type="VI" URL="../Read Measurement Method.vi"/>
-			<Item Name="Read Measurement 2 Channels Method.vi" Type="VI" URL="../Read Measurement 2 Channels Method.vi"/>
-			<Item Name="Read (Waveform) Method.vi" Type="VI" URL="../Read (Waveform) Method.vi"/>
 			<Item Name="Reset Method.vi" Type="VI" URL="../Reset Method.vi"/>
+			<Item Name="Read WAVEFORM Method.vi" Type="VI" URL="../Read WAVEFORM Method.vi"/>
+			<Item Name="Read measurement method.vi" Type="VI" URL="../Read measurement method.vi"/>
+			<Item Name="Read 2 channels measurement.vi" Type="VI" URL="../Read 2 channels measurement.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
