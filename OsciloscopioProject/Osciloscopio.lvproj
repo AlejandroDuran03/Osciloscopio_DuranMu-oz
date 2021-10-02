@@ -23,6 +23,7 @@
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Osciloscope API.vi" Type="VI" URL="../Libraries/Osciloscope/Test Osciloscope API.vi"/>
 		</Item>
+		<Item Name="Prueba1.vi" Type="VI" URL="../Prueba1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Tektronix TDS 200 1000 2000 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Tektronix TDS 200 1000 2000 Series/Tektronix TDS 200 1000 2000 Series.lvlib"/>
