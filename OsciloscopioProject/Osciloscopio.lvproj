@@ -15,6 +15,7 @@
 			<Item Name="Class" Type="Folder">
 				<Item Name="Osciloscope.lvclass" Type="LVClass" URL="../Classes/Osciloscope/Osciloscope.lvclass"/>
 				<Item Name="TektroniksTDS.lvclass" Type="LVClass" URL="../Classes/TektronicsTDS/TektroniksTDS.lvclass"/>
+				<Item Name="Keysight.lvclass" Type="LVClass" URL="../Classes/Keysight/Keysight.lvclass"/>
 			</Item>
 			<Item Name="GetClass.vi" Type="VI" URL="../GetClass.vi"/>
 			<Item Name="SetClassInstance.vi" Type="VI" URL="../SetClassInstance.vi"/>
@@ -26,6 +27,8 @@
 		<Item Name="Prueba1.vi" Type="VI" URL="../Prueba1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
+				<Item Name="Agilent 2000 3000 X-Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Agilent 2000 3000 X-Series.lvlib"/>
+				<Item Name="Agilent 34401.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 34401/Agilent 34401.lvlib"/>
 				<Item Name="Tektronix TDS 200 1000 2000 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Tektronix TDS 200 1000 2000 Series/Tektronix TDS 200 1000 2000 Series.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
