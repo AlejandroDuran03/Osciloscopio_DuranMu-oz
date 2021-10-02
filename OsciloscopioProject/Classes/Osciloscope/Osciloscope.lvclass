@@ -65,13 +65,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="Read (Waveform)Metodo.vi" Type="VI" URL="../Read (Waveform)Metodo.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!6!!$$6&gt;B&gt;G6G&lt;X*N)%2B&gt;'%!,E"Q!"Y!!"544X.D;7RP=W.P='5O&lt;(:D&lt;'&amp;T=Q!04X.D;7RP=W.P='5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'5!(!"*5;7VF&lt;X6U)#AR-$!Q-#"N=SE!!"N!"A!65W^V=G.F)#AQ/C"$;'&amp;O&lt;G6M)$%J!#Z!=!!?!!!6%U^T9WFM&lt;X.D&lt;X"F,GRW9WRB=X-!$E^T9WFM&lt;X.D&lt;X"F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!E!#A)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!A!!!!)!!!!E!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!6!!$$6&gt;B&gt;G6G&lt;X*N)%2B&gt;'%!,E"Q!"Y!!"544X.D;7RP=W.P='5O&lt;(:D&lt;'&amp;T=Q!04X.D;7RP=W.P='5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'5!(!"*5;7VF&lt;X6U)#AR-$!Q-#"N=SE!!"N!"A!65W^V=G.F)#AQ/C"$;'&amp;O&lt;G6M)$%J!#Z!=!!?!!!6%U^T9WFM&lt;X.D&lt;X"F,GRW9WRB=X-!$E^T9WFM&lt;X.D&lt;X"F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!E!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!A!!!!)!!!!E!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Read2 Channels Metodo.vi" Type="VI" URL="../Read2 Channels Metodo.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+3!!!!'1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q66&lt;GFU=Q!21!I!#UVF98.V=G6N:7ZU!"2!5!!#!!1!"1F5:7NU=G^O;8A!$5!+!!&gt;/&gt;7VF=GFD!"J!1!!"`````Q!($%VF98.V=G6N:7ZU=Q!!%E"1!!%!#!B,:8FT;7&gt;I&gt;!!!&amp;%"1!!)!"A!*#52B&gt;'%A4X6U)!!%!!!!,E"Q!"Y!!"544X.D;7RP=W.P='5O&lt;(:D&lt;'&amp;T=Q!04X.D;7RP=W.P='5A&lt;X6U!#&amp;!!Q!&lt;476B=X6S:7VF&lt;H1A6(FQ:3!I-$IA5'BB=W5J!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!(U!$!"B$;'&amp;O&lt;G6M)$%A+$%[)%.I97ZO:7QA-3E!!"^!!Q!91WBB&lt;GZF&lt;#!S)#AS/C"$;'&amp;O&lt;G6M)$)J!!!;1&amp;!!!A!0!"!/2'&amp;U93"5:7NU=G^O;8A!!#.!!Q!&gt;5W^V=G.F)%.I97ZO:7QA+$![)%.I97ZO:7QA-3E!'%"!!!(`````!")+1WBB&lt;GZF&lt;(-A-A!!'5!(!"*5;7VF&lt;X6U)#AR-$!Q-#"N=SE!!"B!5!!#!"-!&amp;!V%982B)%NF?8.J:WBU!"2!5!!#!"%!&amp;1B$;'&amp;O&lt;G6M=Q!!,E"Q!"Y!!"544X.D;7RP=W.P='5O&lt;(:D&lt;'&amp;T=Q!/4X.D;7RP=W.P='5A;7Y!!&amp;1!]!!-!!-!#A!,!!Q!#Q!,!!U!#Q!/!"9!#Q!8!A!!?!!!$1A!!!E!!!!!!!!!D1M!!!!!!!!!!!!!#!!!!!!!!!!)!!!!#!!!!!!!!!#1!!!!!!%!'!!!!!!</Property>
