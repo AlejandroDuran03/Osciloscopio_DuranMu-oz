@@ -52,7 +52,7 @@
 			<Item Name="Method Configure Channel.vi" Type="VI" URL="../Method Configure Channel.vi"/>
 			<Item Name="Reset Method.vi" Type="VI" URL="../Reset Method.vi"/>
 			<Item Name="Read WAVEFORM Method.vi" Type="VI" URL="../Read WAVEFORM Method.vi"/>
-			<Item Name="Read measurement method.vi" Type="VI" URL="../Read measurement method.vi"/>
+			<Item Name="Read Measurement Method.vi" Type="VI" URL="../Read Measurement Method.vi"/>
 			<Item Name="Read 2 channels measurement.vi" Type="VI" URL="../Read 2 channels measurement.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
